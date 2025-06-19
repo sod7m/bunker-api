@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x2e5EHMlgtX+k2BaiySsEcKT5T2e2wMZPhlugQx95Nk=",
+  "Source": "bunker-api",
+  "BasePath": "_content/bunker-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
