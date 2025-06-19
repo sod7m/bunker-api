@@ -15,4 +15,6 @@ public class User
     public DateTime CreatedAt { get; set; }
     
     public DateTime? LastLoginAt { get; set; }
+    
+    public bool IsEmailVerified { get; set; } = false; // Повертаємо поле зі значенням false за замовчуванням
 }

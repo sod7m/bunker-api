@@ -25,5 +25,6 @@ public record UserDto(
     string Email,
     string Username,
     DateTime CreatedAt,
-    DateTime? LastLoginAt
+    DateTime? LastLoginAt,
+    bool IsEmailVerified // Повертаємо поле
 );

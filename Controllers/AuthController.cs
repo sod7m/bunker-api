@@ -56,7 +56,7 @@ public class AuthController : ControllerBase
             token,
             refreshToken,
             DateTime.UtcNow.AddHours(1),
-            new UserDto(user.Id, user.Email, user.Username, user.CreatedAt, user.LastLoginAt) // <-- без IsEmailVerified
+            new UserDto(user.Id, user.Email, user.Username, user.CreatedAt, user.LastLoginAt, user.IsEmailVerified) // Додаємо поле
         );
 
         return Ok(response);
@@ -86,7 +86,7 @@ public class AuthController : ControllerBase
             token,
             refreshToken,
             DateTime.UtcNow.AddHours(1),
-            new UserDto(user.Id, user.Email, user.Username, user.CreatedAt, user.LastLoginAt) // <-- без IsEmailVerified
+            new UserDto(user.Id, user.Email, user.Username, user.CreatedAt, user.LastLoginAt, user.IsEmailVerified) // Додаємо поле
         );
 
         return Ok(response);
