@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\Team Projects\\bunker-api\\bunker-api.csproj": {}
+    "E:\\Study\\Bunker\\bunker-api\\bunker-api.csproj": {}
   },
   "projects": {
-    "D:\\Study\\Team Projects\\bunker-api\\bunker-api.csproj": {
+    "E:\\Study\\Bunker\\bunker-api\\bunker-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\Team Projects\\bunker-api\\bunker-api.csproj",
+        "projectUniqueName": "E:\\Study\\Bunker\\bunker-api\\bunker-api.csproj",
         "projectName": "bunker-api",
-        "projectPath": "D:\\Study\\Team Projects\\bunker-api\\bunker-api.csproj",
-        "packagesPath": "C:\\Users\\12345\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\Team Projects\\bunker-api\\obj\\",
+        "projectPath": "E:\\Study\\Bunker\\bunker-api\\bunker-api.csproj",
+        "packagesPath": "C:\\Users\\Dmytro\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\Bunker\\bunker-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Study\\Dependencies\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\12345\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dmytro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
