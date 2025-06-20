@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bunker-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caa2c6a44fba1f5f862a4e7ed36309c4aa3c24f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab634de5a3985d952c43e1afc34175fb2e44c7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("bunker-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bunker-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
